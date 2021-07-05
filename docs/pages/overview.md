@@ -11,7 +11,7 @@ Basic [debugging](debugging) in robot workflows
 
 Working with the [selector window](selector-window)
 
-Demystifying the [type text activity](typetext-syntax) syntax 
+Demystifying the [type text activity](typetext-syntax.md) syntax 
 
 All most complete list of [basic activities](activities)
 
